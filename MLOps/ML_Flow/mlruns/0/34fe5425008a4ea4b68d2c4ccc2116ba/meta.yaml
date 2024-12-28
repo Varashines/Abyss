@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34fe5425008a4ea4b68d2c4ccc2116ba/artifacts
+end_time: 1735351943002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34fe5425008a4ea4b68d2c4ccc2116ba
+run_name: useful-lynx-920
+run_uuid: 34fe5425008a4ea4b68d2c4ccc2116ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735351815109
+status: 4
+tags: []
+user_id: vara

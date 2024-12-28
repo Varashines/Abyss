@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0be46d1ae7a9415d9b39733aff1927f8/artifacts
+end_time: 1735350522659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0be46d1ae7a9415d9b39733aff1927f8
+run_name: skillful-pug-884
+run_uuid: 0be46d1ae7a9415d9b39733aff1927f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735350387833
+status: 3
+tags: []
+user_id: vara

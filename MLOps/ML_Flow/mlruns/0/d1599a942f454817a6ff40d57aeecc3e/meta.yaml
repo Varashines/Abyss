@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1599a942f454817a6ff40d57aeecc3e/artifacts
+end_time: 1735359510550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1599a942f454817a6ff40d57aeecc3e
+run_name: welcoming-squid-994
+run_uuid: d1599a942f454817a6ff40d57aeecc3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735359369593
+status: 3
+tags: []
+user_id: vara
