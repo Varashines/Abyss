@@ -4,7 +4,11 @@ mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 from mlflow.models import validate_serving_input
 
-model_uri = 'runs:/ea055e135b47421798955e04e4c27540/iris_model'
+
+try:
+    model_uri = model_info.mode.uri  # Works if model and validation is in same file
+except:
+    model_uri = 'runs:/da6e6672e74741d5bc1e12fc24183028/iris_model'
 
 # The model is logged with an input example. MLflow converts
 # it into the serving payload format for the deployed model endpoint,
