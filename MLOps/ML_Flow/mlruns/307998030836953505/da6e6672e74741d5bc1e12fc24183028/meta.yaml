@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/307998030836953505/da6e6672e74741d5bc1e12fc24183028/artifacts
+end_time: 1735450438326
+entry_point_name: ''
+experiment_id: '307998030836953505'
+lifecycle_stage: active
+run_id: da6e6672e74741d5bc1e12fc24183028
+run_name: angry-cow-186
+run_uuid: da6e6672e74741d5bc1e12fc24183028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735450435255
+status: 3
+tags: []
+user_id: vara

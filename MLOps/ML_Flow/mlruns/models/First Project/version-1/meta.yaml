@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735450438322
+current_stage: None
+description: ''
+last_updated_timestamp: 1735450438322
+name: First Project
+run_id: da6e6672e74741d5bc1e12fc24183028
+run_link: ''
+source: mlflow-artifacts:/307998030836953505/da6e6672e74741d5bc1e12fc24183028/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/307998030836953505/da6e6672e74741d5bc1e12fc24183028/artifacts/iris_model
+user_id: null
+version: 1
