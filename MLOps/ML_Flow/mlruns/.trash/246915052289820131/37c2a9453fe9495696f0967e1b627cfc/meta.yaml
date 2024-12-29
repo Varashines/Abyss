@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/246915052289820131/37c2a9453fe9495696f0967e1b627cfc/artifacts
+deleted_time: 1735463250860
+end_time: 1735456636034
+entry_point_name: ''
+experiment_id: '246915052289820131'
+lifecycle_stage: deleted
+run_id: 37c2a9453fe9495696f0967e1b627cfc
+run_name: wistful-dog-651
+run_uuid: 37c2a9453fe9495696f0967e1b627cfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735456635860
+status: 4
+tags: []
+user_id: vara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/914430930139820469/942c005ef96b4d859af6271fbea8af05/artifacts
+end_time: 1735463667166
+entry_point_name: ''
+experiment_id: '914430930139820469'
+lifecycle_stage: active
+run_id: 942c005ef96b4d859af6271fbea8af05
+run_name: unique-grouse-340
+run_uuid: 942c005ef96b4d859af6271fbea8af05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735463659166
+status: 3
+tags: []
+user_id: vara

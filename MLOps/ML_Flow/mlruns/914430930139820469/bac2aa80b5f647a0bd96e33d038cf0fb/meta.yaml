@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/914430930139820469/bac2aa80b5f647a0bd96e33d038cf0fb/artifacts
+end_time: 1735463479063
+entry_point_name: ''
+experiment_id: '914430930139820469'
+lifecycle_stage: active
+run_id: bac2aa80b5f647a0bd96e33d038cf0fb
+run_name: bemused-vole-785
+run_uuid: bac2aa80b5f647a0bd96e33d038cf0fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735463465990
+status: 3
+tags: []
+user_id: vara
