@@ -1,7 +1,0 @@
-artifact_location: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/246915052289820131
-creation_time: 1735454959125
-experiment_id: '246915052289820131'
-last_update_time: 1735463250860
-lifecycle_stage: deleted
-name: Wine Quality ANN
-tags: {}

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/524991680804203465/028d545bf05944fdb73cec8a6907a47c/artifacts
+deleted_time: 1735481058354
+end_time: 1735480027032
+entry_point_name: ''
+experiment_id: '524991680804203465'
+lifecycle_stage: deleted
+run_id: 028d545bf05944fdb73cec8a6907a47c
+run_name: burly-cat-495
+run_uuid: 028d545bf05944fdb73cec8a6907a47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735479985154
+status: 3
+tags: []
+user_id: vara

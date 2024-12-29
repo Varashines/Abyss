@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/cb1cea6824ff41ed83dd17a00dc37b2b/artifacts
+deleted_time: 1735479467004
+end_time: 1735479411337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cb1cea6824ff41ed83dd17a00dc37b2b
+run_name: big-deer-276
+run_uuid: cb1cea6824ff41ed83dd17a00dc37b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735479367504
+status: 3
+tags: []
+user_id: vara

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8d43000dc60f4e94aa3232f83215ccef/artifacts
+deleted_time: 1735479467006
+end_time: 1735479259390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8d43000dc60f4e94aa3232f83215ccef
+run_name: bedecked-lark-874
+run_uuid: 8d43000dc60f4e94aa3232f83215ccef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735479219186
+status: 4
+tags: []
+user_id: vara
