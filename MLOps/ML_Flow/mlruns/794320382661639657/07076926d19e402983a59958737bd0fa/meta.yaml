@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/794320382661639657/07076926d19e402983a59958737bd0fa/artifacts
+end_time: 1735490490590
+entry_point_name: ''
+experiment_id: '794320382661639657'
+lifecycle_stage: active
+run_id: 07076926d19e402983a59958737bd0fa
+run_name: casual-cub-311
+run_uuid: 07076926d19e402983a59958737bd0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735490484618
+status: 3
+tags: []
+user_id: vara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/899223647410400548/60dab7e278b64355a6475679bd6747cf/artifacts
+end_time: 1735488111741
+entry_point_name: ''
+experiment_id: '899223647410400548'
+lifecycle_stage: active
+run_id: 60dab7e278b64355a6475679bd6747cf
+run_name: carefree-fish-920
+run_uuid: 60dab7e278b64355a6475679bd6747cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735488095921
+status: 3
+tags: []
+user_id: vara

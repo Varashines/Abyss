@@ -43,8 +43,7 @@ def train_model(params,epochs,train_x,train_y,valid_x,valid_y,test_x,test_y):
         ]
     )
 
-    model.compile(optimizer = keras.optimizers.SGD(
-        learning_rate=params["lr"],momentum=params["momentum"]),
+    model.compile(optimizer = keras.optimizers.SGD(learning_rate=params["lr"],momentum=params["momentum"]),
         loss = "mean_squared_error",
         metrics=[keras.metrics.RootMeanSquaredError()]
     )
@@ -104,7 +103,10 @@ with mlflow.start_run():
     # Log the best parameters, loss, and model
     mlflow.log_params(best)
     mlflow.log_metric("eval_rmse", best_run["loss"])
-    mlflow.tensorflow.log_model(best_run["model"], "model", signature=signature)
+    try:
+        mlflow.tensorflow.log_model(best_run["model"], "model", signature=signature)
+    except:
+        mlflow.tensorflow.log_model(best_run["model"], "model", signature=signature)
 
     # Print out the best parameters and corresponding loss
     print(f"Best parameters: {best}")

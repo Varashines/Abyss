@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.datasets import fetch_california_housing
 from sklearn.metrics import mean_squared_error, r2_score
 from mlflow.models import infer_signature
-import pandas as pd
 
 # 1. Experiment setup
 experiment_name = "Best RF Model"

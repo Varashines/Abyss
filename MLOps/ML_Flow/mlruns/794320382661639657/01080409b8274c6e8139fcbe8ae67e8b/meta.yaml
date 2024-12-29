@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/794320382661639657/01080409b8274c6e8139fcbe8ae67e8b/artifacts
+end_time: 1735490472353
+entry_point_name: ''
+experiment_id: '794320382661639657'
+lifecycle_stage: active
+run_id: 01080409b8274c6e8139fcbe8ae67e8b
+run_name: worried-loon-365
+run_uuid: 01080409b8274c6e8139fcbe8ae67e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735490465741
+status: 3
+tags: []
+user_id: vara

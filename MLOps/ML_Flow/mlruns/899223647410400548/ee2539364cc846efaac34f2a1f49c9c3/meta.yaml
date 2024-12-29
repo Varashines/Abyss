@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/899223647410400548/ee2539364cc846efaac34f2a1f49c9c3/artifacts
+end_time: 1735489889134
+entry_point_name: ''
+experiment_id: '899223647410400548'
+lifecycle_stage: active
+run_id: ee2539364cc846efaac34f2a1f49c9c3
+run_name: sassy-steed-550
+run_uuid: ee2539364cc846efaac34f2a1f49c9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489873285
+status: 4
+tags: []
+user_id: vara

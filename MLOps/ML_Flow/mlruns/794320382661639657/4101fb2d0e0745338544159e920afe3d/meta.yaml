@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/794320382661639657/4101fb2d0e0745338544159e920afe3d/artifacts
+end_time: 1735490494587
+entry_point_name: ''
+experiment_id: '794320382661639657'
+lifecycle_stage: active
+run_id: 4101fb2d0e0745338544159e920afe3d
+run_name: gifted-tern-608
+run_uuid: 4101fb2d0e0745338544159e920afe3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735490465541
+status: 3
+tags: []
+user_id: vara

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/794320382661639657/6a74fd675e484afca0a6153a74d7bcec/artifacts
+end_time: 1735490484593
+entry_point_name: ''
+experiment_id: '794320382661639657'
+lifecycle_stage: active
+run_id: 6a74fd675e484afca0a6153a74d7bcec
+run_name: orderly-chimp-644
+run_uuid: 6a74fd675e484afca0a6153a74d7bcec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735490478559
+status: 3
+tags: []
+user_id: vara

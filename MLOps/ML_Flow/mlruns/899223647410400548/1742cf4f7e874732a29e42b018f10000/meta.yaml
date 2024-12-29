@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/899223647410400548/1742cf4f7e874732a29e42b018f10000/artifacts
+end_time: 1735489381069
+entry_point_name: ''
+experiment_id: '899223647410400548'
+lifecycle_stage: active
+run_id: 1742cf4f7e874732a29e42b018f10000
+run_name: marvelous-steed-101
+run_uuid: 1742cf4f7e874732a29e42b018f10000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489369314
+status: 4
+tags: []
+user_id: vara

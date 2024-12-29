@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vara/Development/Data%20Sciences/Quest/MLOps/ML_Flow/mlruns/794320382661639657/bfc77b3d04f44a90bc584431d2cf8ec8/artifacts
+end_time: 1735490478528
+entry_point_name: ''
+experiment_id: '794320382661639657'
+lifecycle_stage: active
+run_id: bfc77b3d04f44a90bc584431d2cf8ec8
+run_name: suave-smelt-162
+run_uuid: bfc77b3d04f44a90bc584431d2cf8ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735490472383
+status: 3
+tags: []
+user_id: vara

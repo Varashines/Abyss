@@ -1,0 +1,18 @@
+artifact_path: wine_quality_model
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.7.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.11
+mlflow_version: 2.19.0
+model_size_bytes: 62101
+model_uuid: 00af9c6eba7443d383c13da9b9296ddf
+run_id: 60dab7e278b64355a6475679bd6747cf
+utc_time_created: '2024-12-29 16:01:46.681547'
